@@ -1,6 +1,7 @@
 📊 Retail Revenue Analysis & Executive Dashboard
 
-📌 Problem Statement
+📌 Problem Statement 
+
 Retail transaction data often contains inconsistencies such as missing values, refunds, zero-quantity transactions, and pricing mismatches.  
 These issues make raw revenue numbers unreliable for business decision-making.
 The objective of this project was to clean, validate, and analyze retail sales data to produce **finance-safe KPIs** and an **executive-ready dashboard** that stakeholders can trust.
@@ -12,7 +13,8 @@ The objective of this project was to clean, validate, and analyze retail sales d
   - Pivot Tables  
   - Executive Dashboard Design  
 
-📊 Data Overview
+📊 Data Overview 
+
 The dataset contains transaction-level retail sales data including:
 - Date
 - Region
