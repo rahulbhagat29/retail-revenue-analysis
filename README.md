@@ -59,3 +59,5 @@ Special cases such as refunds, zero-quantity rows, and pricing inconsistencies w
 - Extend analysis using SQL and Python for customer-level insights.
 - Build an interactive dashboard using Power BI or Tableau.
 - Incorporate customer and marketing data to enhance retention analysis.
+
+LinkedIn : https://www.linkedin.com/in/rahul-bhagat-6439853b4/?trk=opento_sprofile_topcard
